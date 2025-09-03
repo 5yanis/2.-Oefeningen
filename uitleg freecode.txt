@@ -12,6 +12,13 @@ figure element: als je een image importeert is het handig om een overzicht ervan
 figcaption: de tekst dat onder je foto zal komen
 em element: om vb in je p element iets op te laten vallen. (Ander lettertype)
 strong element: vetgrdukt teskt, opvallen dus!
+form element: om info op te halen van de user met de attributen action kies je waar die data heen gaat
+input: is wel duidelijk, een deel van form, form is het geheel van alles om data in te voeren/versturen.
+
+
+
+nest: houd in dat je een attr of element in een ander stopt.
+
 
 
 
