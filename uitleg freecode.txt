@@ -1,6 +1,7 @@
 h element: Voor een titel hoe groter het getal hoe kleiner de lettertype
 p element: voor onder je titel een tekst zoals bij een artikel
 a element: van een tekst iets vetgrdukt maken, importeer je dit in een img scr dan maak je je foto klikbaar naar een link
+ol element: een element voor ook een lijst, alleen wordt hier genummerd volgorde is hier van belang!
 target: als je je link van een a element naar een niewe tab wil brengen dan vul je _blank in voor dit te doen.
 img scr: element voor het importeren van een foto alt= hoort voor als de foto niet inlaad de foto te beschrijven
 main: je belangrijke deel van je code, hoofdinfo navigatie hoort er niet bij
@@ -9,4 +10,14 @@ ul element: voor een lijst, volgorde hoort er niet bij de elementen bij de lijst
 html: hier geef je weer dat je ermee werkt.
 figure element: als je een image importeert is het handig om een overzicht ervan te maken. Daarvoor komt de figure element van pas!
 figcaption: de tekst dat onder je foto zal komen
-em element: om vb in je p element iets op te laten vallen.
+em element: om vb in je p element iets op te laten vallen. (Ander lettertype)
+strong element: vetgrdukt teskt, opvallen dus!
+
+
+
+
+
+
+
+
+intendations zijn belangrijk zoals bij python om te kunnen functioneren zoals het hoort!!!!
