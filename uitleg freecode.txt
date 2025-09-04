@@ -20,6 +20,9 @@ required: maakt de input verplicht.
 label element: zorgt ervoor dat de placeholder attr blijft na klikken op het input veldje.
 
 
+
+Tip: geef je label input dezelfde naam om het zo te maken dat je maar 1 kan selecteren.
+
 nest: houd in dat je een attr of element in een ander stopt.
 
 
