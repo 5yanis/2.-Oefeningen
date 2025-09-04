@@ -14,10 +14,10 @@ em element: om vb in je p element iets op te laten vallen. (Ander lettertype)
 strong element: vetgrdukt teskt, opvallen dus!
 form element: om info op te halen van de user met de attributen action kies je waar die data heen gaat
 input: is wel duidelijk, een deel van form, form is het geheel van alles om data in te voeren/versturen.
-type attribuut: het is een attribuut voor een type input en met naam assign je de value van de input aan je keuze.
+type attribuut: het is een attribuut voor een type input en met naam assign je de value van de input aan je keuze. (Radio voor meerkeuze)
 placeholder attribuut: Het is een attribuut voor dat de user in de typbox kan zien wat er verwacht word dat erin komt. VB. username, password.
-
-
+required: maakt de input verplicht.
+label element: zorgt ervoor dat de placeholder attr blijft na klikken op het input veldje.
 
 
 nest: houd in dat je een attr of element in een ander stopt.
