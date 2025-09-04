@@ -18,8 +18,8 @@ type attribuut: het is een attribuut voor een type input en met naam assign je d
 placeholder attribuut: Het is een attribuut voor dat de user in de typbox kan zien wat er verwacht word dat erin komt. VB. username, password.
 required: maakt de input verplicht.
 label element: zorgt ervoor dat de placeholder attr blijft na klikken op het input veldje.
-fieldset element: groepeert zoals section alleen meer specifiek vb. een groep en daarbinnen subgroepen.
-
+fieldset element: groepeert zoals section alleen meer specifiek vb. een groep en daarbinnen subgroepen. Er komt ook een visual box rondom je radio input
+legend element: hetzeflde als figure alleen voor tekst input i.p.v foto captions.
 
 Tip: geef je label input dezelfde naam om het zo te maken dat je maar 1 kan selecteren.
 
