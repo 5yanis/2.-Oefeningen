@@ -1,0 +1,12 @@
+1: Om de locatie te kiezen van een tekst doe je als gevolg zo:
+VB. met text-align kies je waar alles moet.
+
+enkele mogelijke 
+
+
+element{
+    property: value;
+
+}
+
+Alle CSS code hoort in de style element inclusief dit!!
