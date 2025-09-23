@@ -33,4 +33,4 @@ nest: houd in dat je een attr of element in een ander stopt.
 
 
 
-intendations zijn belangrijk zoals bij python om te kunnen functioneren zoals het hoort!!!!
+intendations --> Voor overzicht
