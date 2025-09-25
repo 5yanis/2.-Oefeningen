@@ -9,4 +9,11 @@ element{
 
 }
 
+vb.
+h1,h2,p{
+    text-align: center;
+}
+voila nu is alles bij mekaar goede vb.
+
+Je kan zo ook groeperen door comma's dus je hoeft niet telkens een aparte in te voeren.
 Alle CSS code hoort in de style element inclusief dit!!
